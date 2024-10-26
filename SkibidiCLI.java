@@ -1,5 +1,4 @@
 import java.util.Random;
-import java.util.Scanner;
 
 public class SkibidiCLI {
     public static void main(String[] args) {
@@ -27,8 +26,8 @@ public class SkibidiCLI {
 
     private static void fact() {
         String[] facts = {
-            "Skibidi started as a popular internet dance.",
-            "The Skibidi dance went viral in 2018.",
+            "Skibidi is very goofy.",
+            "The skibidi dance has aura",
             "The word 'skibidi' doesn’t mean anything; it's just 𝓯𝓻𝓮𝓪𝓴𝔂!"
         };
         Random random = new Random();
